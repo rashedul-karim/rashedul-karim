@@ -7,9 +7,11 @@ I am now working as a cloud data engineer, focused on Azure, Databricks and data
 pipelines that feed predictions, analytics and AI applications.
 
 ### 🔭 Current work
+- [Daily SQL work log](https://github.com/rashedul-karim/sql-daily)
 - Lakehouse pipeline on Azure and Databricks (medallion architecture, Delta Lake)
 - SQL performance tuning lab: benchmarked experiments on indexing, execution plans and partitioning
-- Daily SQL practice log
+- [SLR on AI-Driven Predictive Maintenance for Legacy Military Aircraft Under Data and Resource Constraints
+](https://github.com/rashedul-karim/slr-pdm-legacy-military-aircraft)
 
 ### 🌱 Currently learning
 - PySpark, Delta Lake, dbt
