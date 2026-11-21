@@ -8,6 +8,7 @@ and Kuwait, including Bangladesh's national Machine Readable Passport (MRP) proj
 
 ### 🔭 Current work
 
+- **[rul-data-constraints](https://github.com/rashedul-karim/rul-data-constraints)**: Code and results: cost of data constraints in turbofan RUL prediction (NASA C-MAPSS)
 - **[aircraft-maintenance-lakehouse](https://github.com/rashedul-karim/aircraft-maintenance-lakehouse)**: predictive-maintenance lakehouse on Databricks using NASA turbofan data. Medallion architecture on Delta Lake and Unity Catalog, with data quality checks, unit tests and CI
 - **SLR replication package**: PRISMA 2020 systematic review on predictive maintenance for legacy military aircraft (public at submission)
 - **[sql-daily](https://github.com/rashedul-karim/sql-daily)**: daily SQL practice log
