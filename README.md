@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rashed ul Karim Rameem
+## Hi there 👋 I'm Rashed ul Karim
 
 Database Administrator -> Cloud Data Engineer | Azure | Databricks | PySpark | SQL
 
